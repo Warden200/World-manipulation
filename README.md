@@ -1,9 +1,14 @@
 World Manipulation is a minimalist god simulator and grand strategy sandbox game, heavily inspired by the gameplay of Ages of Conflict.
 In this game, you become a detached observer or the ultimate creator of world history:
+-------------------------------------------------------------------------------------------
 • Total Freedom (Sandbox): Create your own nations, customize their borders, names, and flags, and watch how they interact with each other.
+-------------------------------------------------------------------------------------------
 • History Simulation: AI completely controls the development of states. Nations will expand territories, declare wars, sign peace treaties, and collapse in real-time.
+-------------------------------------------------------------------------------------------
 • World Intervention: At any moment, you can alter the course of history — grant resources to a specific country, force states into war, wipe armies from existence, or instantly redraw borders.
+-------------------------------------------------------------------------------------------
 • Large-scale Scenarios: Test real historical alliances or model alternative geopolitical scenarios of the future.
+
 "The fate of the entire world is entirely in your hands. Create, destroy, and manipulate!"
 
 
