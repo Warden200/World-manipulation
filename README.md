@@ -11,7 +11,7 @@ In this game, you become a detached observer or the ultimate creator of world hi
 -------------------------------------------------------------------------------------------
 "The fate of the entire world is entirely in your hands. Create, destroy, and manipulate!"
 -------------------------------------------------------------------------------------------
-
+This is a non-commercial project inspired by Ages of Conflict. This game is not affiliated with the developers of Ages of Conflict and does not contain any of their assets.
 
 
 
@@ -35,3 +35,5 @@ World Manipulation — это минималистичный симулятор 
 -------------------------------------------------------------------------------------------
 «Судьба целого мира — исключительно в ваших руках. Создавайте, разрушайте и манимулируйте!»
 -------------------------------------------------------------------------------------------
+
+Это некоммерческий проект, вдохновленный Ages of Conflict. Игра не связана с разработчиками Ages of conflict и не содержит их ассетов.
